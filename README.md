@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sumanthboda37
 - 👀 I’m interested in Software Development Engineer  
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on https://www.linkedin.com/in/sai-sumanth-boda-876805205/
 - 📫 How to reach me saisumanth15@gmail.com
 
 <!---
